@@ -9,3 +9,6 @@ typechain-types
 cache
 artifacts
 
+database
+caches
+DATABASE_METADATA.json
