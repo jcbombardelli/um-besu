@@ -1,0 +1,1 @@
+npx hardhat run erc20/scripts/deploy.js --network besu
